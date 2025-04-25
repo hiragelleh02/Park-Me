@@ -1,4 +1,9 @@
 
+## TL;DR
+
+- **APK available**: A working version of the app is provided at `app/outputs/flutter-apk/app-release.apk`. 
+- **Quick Test**: Drag and drop this APK onto an Android emulator to run the app without building it manually.
+
 # Park Me - Smart Parking Management System
 
 A Flutter-based smart parking management app designed specifically for **Georgia State University (GSU)** parking facilities. Park Me simplifies parking with **real-time slot availability, dynamic pricing**, and **GPS navigation**.
